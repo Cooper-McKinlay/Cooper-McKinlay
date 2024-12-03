@@ -1,7 +1,7 @@
 Hi, I’m @Cooper-McKinlay
 I'm a intern in the Tampa Bay Area.
 My focus is on electrical engineering, both with hardware and software.
-My hobbies include Dungeons and Dragons, Magic: the Gathering, and a wide variety of video games and other tabletop games.
+My hobbies include tabletop games, music, and cooking.
 I'm excited to collaborate and learn with others!
 
 <!---
